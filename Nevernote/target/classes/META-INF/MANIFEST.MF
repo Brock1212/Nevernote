@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Nevernote
+Implementation-Version: 1
+Built-By: Brock
+Implementation-Vendor-Id: com.Nevernote
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Nevernote
+Created-By: Maven Integration for Eclipse
+
